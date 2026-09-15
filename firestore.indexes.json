@@ -1,0 +1,15 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "hazards",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "timestamp",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}

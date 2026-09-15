@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "723644315316",
+    "project_id": "roadaware-4c8ca",
+    "storage_bucket": "roadaware-4c8ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723644315316:android:a629f438ea5407def1c9e1",
+        "android_client_info": {
+          "package_name": "com.roadaware.app.road_aware_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY-1H8VkZWRxVF03U91vbODh1Ewn6MBRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
